@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=double\ newRun(int)
+comment1.params=a\ i
+comment1.target=int\ up(int,\ int)
+comment2.params=a\ i
+comment2.target=int\ down(int,\ int)
+comment3.params=a\ i
+comment3.target=int\ left(int,\ int)
+comment4.params=a\ i
+comment4.target=int\ right(int,\ int)
+comment5.params=n
+comment5.target=int\ nextRnd(int)
+comment6.params=
+comment6.target=void\ main()
+numComments=7
